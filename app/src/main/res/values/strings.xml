@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NewProjectAttendancesSystem</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="welcome_message">Welcome, User!</string>
+    <string name="view_profile">View Profile</string>
+    <string name="view_attendance_records">View Attendance Records</string>
+    <string name="logout">Logout</string>
+    <string name="take_attendance">Take Attendance</string>
+</resources>
